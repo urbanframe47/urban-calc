@@ -1,0 +1,3 @@
+settings:
+  safe_rent_ratio: 0.3
+  vacancy_adjustment_scale: 0.1
